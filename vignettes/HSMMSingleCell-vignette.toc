@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Cell Culture and Sequencing}{1}{section.2}
+\contentsline {section}{\numberline {3}Estimating expression levels}{2}{section.3}
+\contentsline {section}{\numberline {4}The HSMM dataset}{2}{section.4}
+\contentsline {section}{\numberline {5}Further analysis}{3}{section.5}
+\contentsline {section}{\numberline {6}Citation}{3}{section.6}
+\contentsline {section}{\numberline {7}Acknowledgements}{3}{section.7}
+\contentsline {section}{\numberline {8}Session Info}{4}{section.8}

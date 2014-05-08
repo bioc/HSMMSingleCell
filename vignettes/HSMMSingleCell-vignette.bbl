@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{Trapnell:2012kp}
+Cole Trapnell, Adam Roberts, Loyal Goff, Geo Pertea, Daehwan Kim, David~R
+  Kelley, Harold Pimentel, Steven~L Salzberg, John~L Rinn, and Lior Pachter.
+\newblock {Differential gene and transcript expression analysis of RNA-seq
+  experiments with TopHat and Cufflinks.}
+\newblock {\em Nature Protocols}, 7(3):562--578, March 2012.
+
+\bibitem{Kim:2013eo}
+Daehwan Kim, Geo Pertea, Cole Trapnell, Harold Pimentel, Ryan Kelley, and
+  Steven~L Salzberg.
+\newblock {TopHat2: accurate alignment of transcriptomes inthe presence of
+  insertions, deletions and gene fusions}.
+\newblock {\em Genome biology}, 14(4):R36, April 2013.
+
+\bibitem{Langmead:2012jh}
+Ben Langmead and Steven~L Salzberg.
+\newblock {Fast gapped-read alignment with Bowtie 2}.
+\newblock {\em Nature methods}, 9(4):357--359, March 2012.
+
+\bibitem{Harrow:2006ee}
+Jennifer Harrow, France Denoeud, Adam Frankish, Alexandre Reymond, Chao-Kung
+  Chen, Jacqueline Chrast, Julien Lagarde, James G~R Gilbert, Roy Storey, David
+  Swarbreck, Colette Rossier, Catherine Ucla, Tim Hubbard, Stylianos~E
+  Antonarakis, and Roderic Guigo.
+\newblock {GENCODE: producing a reference annotation for ENCODE.}
+\newblock {\em Genome biology}, 7 Suppl 1:S4.1--9, 2006.
+
+\bibitem{Trapnell:2012gg}
+Cole Trapnell, David~G Hendrickson, Martin Sauvageau, Loyal Goff, John~L Rinn,
+  and Lior Pachter.
+\newblock {Differential analysis of gene regulation at transcript resolution
+  with RNA-seq}.
+\newblock {\em Nature Biotechnology}, pages 1--9, December 2012.
+
+\end{thebibliography}
